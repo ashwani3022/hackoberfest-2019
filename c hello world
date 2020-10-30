@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<conio.h>
-int main()
-{
-printf("hello world");
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
 }
